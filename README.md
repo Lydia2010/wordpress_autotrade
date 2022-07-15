@@ -7,10 +7,11 @@
 * MySQL
 * Apache
 
-## Choose a Framework (Optional)
+## Framework
 * Bootstrap
 * jQuery
 * SASS
+* Laravel-mix
 
 ## Additional Resources
 * Git
@@ -19,7 +20,7 @@
 * HTTP & HTTPS
 * Web Performance
 * WordPress Localization
-* Laravel-mix
+
 
 
 
