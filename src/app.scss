@@ -1,0 +1,28 @@
+
+@import 'node_modules/bootstrap/scss/bootstrap';
+
+@import 'colors';
+@import 'header';
+
+
+#mainDevelopers {
+	height: 50px;
+	width:100%;
+	background:#f0f0f0;
+}
+
+.main-container {
+	padding:2rem 0;
+}
+
+.content {
+	padding: 3rem 0;
+
+}
+
+
+footer{
+	height: 300px;	
+	width: 100%;
+	background:#f0f0f0;
+}
