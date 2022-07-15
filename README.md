@@ -25,4 +25,4 @@
 
 
 
-view project [Developers list](https://lydia2010.github.io/wordpress_autotrade/)   
+
