@@ -1,8 +1,4 @@
-# wordpress_autotrade
-
 # WordPress Developers list
-
-
 
 ## Prerequisites
 * HTML & CSS
