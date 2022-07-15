@@ -27,3 +27,4 @@
 ## Theme Development
 * [WordPress Theme Developers](https://developer.test/themes/)
 
+view project [Developers list](https://lydia2010.github.io/wordpress_autotrade/)   
